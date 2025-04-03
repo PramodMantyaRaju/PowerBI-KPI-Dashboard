@@ -5,7 +5,7 @@ This project presents an interactive **Power BI dashboard** that visualizes oper
 
 ---
 
-##Project Objective  
+## Project Objective  
 To design a dynamic dashboard that helps stakeholders:
 - Monitor key operational metrics and performance trends
 - Identify anomalies or patterns in business activity
@@ -83,7 +83,7 @@ It is used to simulate how businesses collect and track operational data for rea
 
 ---
 
-##Future Enhancements  
+## Future Enhancements  
 
 - **Real-Time Data Connection** → Integrate with APIs or SQL servers for live data refresh  
 - **Mobile Optimization** → Design adaptive layouts for tablets and smartphones  
